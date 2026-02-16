@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Heet Timbadiya
 
-<!--
-**heettimbadiya/heettimbadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer passionate about building real-world web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💻 MERN Stack Developer
+- 🌱 Currently learning advanced backend & system design
+- 🔥 Love building scalable and clean UI apps
+- 📍 Gujarat, India
+- 💬 Ask me about React, Node.js, MongoDB
+
+---
+
+## 🛠 Tech Stack
+
+Frontend: React.js, Next.js, HTML, CSS, Tailwind  
+Backend: Node.js, Express.js  
+Database: MongoDB  
+Tools: Git, GitHub, Postman  
+
+---
+
+## 🚀 Top Projects
+
+- Resume Builder App
+- Real Estate Map Viewer
+- Portfolio Website
+
+---
+
+## 📫 Connect With Me
+
+Email: your email  
+LinkedIn: your link  
+
