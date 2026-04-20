@@ -2,7 +2,7 @@
 <h3 align="center">Senior Full Stack Developer | MERN | React Expert | Building Scalable Applications</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer+with+5%2B+Years+Experience;React+%7C+Next.js+%7C+Node.js+Expert;Building+Scalable+Web+Applications;AWS+%7C+MongoDB+%7C+PostgreSQL" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full%20Stack%20Developer%20with%205%2B%20Years%20Experience;React%20%7C%20Next.js%20%7C%20Node.js%20Expert;Building%20Scalable%20Web%20Applications;AWS%20%7C%20MongoDB%20%7C%20PostgreSQL" />
 </p>
 
 ---
